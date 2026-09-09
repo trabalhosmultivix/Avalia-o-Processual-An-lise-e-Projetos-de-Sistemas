@@ -50,7 +50,7 @@ Ou clique em **"Ainda não tem conta? Criar cadastro"** na tela de login para
 criar um perfil novo.
 
 Fluxo sugerido para testar tudo de ponta a ponta:
-1. Entre como **Administrador** → "Eventos" → clique no ícone 🔑 de um
+1. Entre como **Administrador** → "Eventos" → clique no ícone de um
    evento → "Abrir check-in agora" → copie o código mostrado.
 2. Saia e entre como **Estudante** → "Eventos" → inscreva-se em um evento
    (ou use um em que já esteja inscrito) → "Minhas Inscrições" → "Fazer
