@@ -1,6 +1,12 @@
 # Sistema de Gestão de Eventos e Inscrições Acadêmicas 
 
-Equipe: ● Tainan Bindaco ● Guilherme Lopes Pontes ● Thiago Teixeira Gonçalves ● Breno De Angeli ● Gabriel de Martin Vasconcelos ● Caio Lopes 
+Equipe: 
+● Tainan Bindaco 
+● Guilherme Lopes Pontes 
+● Thiago Teixeira Gonçalves 
+● Breno De Angeli 
+● Gabriel de Martin Vasconcelos 
+● Caio Lopes 
 
 Projeto completo: front-end (HTML/CSS/JS puro) já ligado ao backend real
 (Flask + SQLite). São **dois servidores rodando ao mesmo tempo**: o backend
